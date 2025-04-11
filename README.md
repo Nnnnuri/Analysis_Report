@@ -15,8 +15,8 @@
  ├─ .DS_Store
  ├─ .gitignore
  ├─ README.md
- ├─ report.ipynb
  └─ 📁Project
+    ├─ report.ipynb
     └─📁csv
         └─ analysis_report.csv
 ```
